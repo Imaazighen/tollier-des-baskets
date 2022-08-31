@@ -1,0 +1,73 @@
+body{
+    margin: 50px;
+    background-color: rgb(161, 161, 161);
+    
+}
+
+#content{
+    font-family: 'Kumbh Sans';
+    height: 450px;
+    width: 550px;
+    background-color: white;
+    
+}
+
+#tollier{
+    height:15px;
+    width:180px ;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: #F24A02;
+    padding-top: 23px;
+
+    padding-left: 18px;
+}
+
+#titre{
+    height:88px ;
+    width: 477px;
+    font-weight: 700;
+    font-size: 44px;
+    color: #20242D;
+    margin-top: 13px;
+    padding-left: 18px;
+    -webkit-text-stroke: 1px;
+}
+
+
+
+#p1{
+    height: 83px;
+    width: 476px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #69707D;
+    margin-top: 56px;
+    padding-left: 13px;
+}
+
+#prix1{
+    height: 28px;
+    width: 100px;
+    font-weight: 700;
+    font-size: 28px;
+    color: #20242D;
+    margin-top: 31px;
+    padding-left: 18px;
+    
+}
+
+#prix2{
+    height: 17px;
+    width: 52px ;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration-line: line-through;
+    color: #69707D;
+    margin-top: -20px;
+    padding-left: 18px;
+    
+}
+
+
